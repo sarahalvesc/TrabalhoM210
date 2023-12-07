@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=uendv1Khpcw
+https://github.com/leonardodazeredo/simplesX/tree/master/SimplesX/metodo
+https://stackoverflow.com/questions/20180210/python-how-to-combine-two-matrices-in-numpy
+https://www.programiz.com/python-programming/matrix
+https://github.com/search?p=3&q=simplex+algorithms+python&type=Repositories
+https://developers.google.com/edu/python/strings
+https://stackoverflow.com/questions/14060894/replacing-nones-in-a-python-array-with-zeroes
+https://kite.com/python/docs/numpy.size
+https://www.sololearn.com/Discuss/185759/printing-string-and-integer-or-float-in-the-same-line
